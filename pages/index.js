@@ -1,6 +1,5 @@
 import {
   BsLinkedin,
-  BsTwitter,
   BsGithub,
   BsInstagram,
   BsFillCaretRightFill,
@@ -21,7 +20,6 @@ import {
 } from "react-icons/Si";
 
 export default function Home() {
-  let url = "www.youtube.com";
   return (
     <div className="">
       <div className="context z-50">
